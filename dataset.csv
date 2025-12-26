@@ -1,0 +1,10 @@
+symptom,medicines,advice
+fever,"Paracetamol|Ibuprofen","Please consult a doctor before taking any medicine."
+headache,"Paracetamol|Aspirin","Avoid screen time and consult a doctor if pain persists."
+cough,"Honey|Cetirizine","Drink warm fluids and consult a doctor if cough continues."
+cold,"Vitamin C|Cetirizine","Take rest and consult a doctor if symptoms worsen."
+stomach pain,"Antacids","Avoid spicy food and consult a doctor."
+sore throat,"Honey|Paracetamol","Gargle with warm salt water and consult a doctor."
+muscle pain,"Ibuprofen|Aspirin","Apply hot compress and consult a doctor."
+allergy,"Cetirizine|Loratadine","Avoid allergens and consult a doctor."
+diabetes,"Metformin|Insulin","Immediate doctor consultation is required."
