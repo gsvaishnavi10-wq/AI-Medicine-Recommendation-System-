@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.container {
+    background: white;
+    padding: 25px;
+    width: 420px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(195, 44, 170, 0.2);
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: rgb(0, 109, 128);
+    color: rgb(242, 236, 236);
+    border: none;
+    border-radius: 5px;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.medicine {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.medicine img {
+    width: 40px;
+    margin-right: 10px;
+}
