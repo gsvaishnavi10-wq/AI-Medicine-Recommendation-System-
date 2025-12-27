@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Medicine Recommendation System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>AI Medicine Recommendation System</h1>
+
+    <input type="text" id="symptom" placeholder="Enter symptom (fever, cough)">
+    <button type="button" onclick="recommendMedicine()">Get Recommendation</button>
+
+    <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
