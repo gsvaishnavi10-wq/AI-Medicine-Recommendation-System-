@@ -20,3 +20,18 @@ JavaScript reads the CSV dataset
 The system matches the user symptom with dataset values
 The corresponding medicine is identified
 The recommended medicine is displayed on the screen
+Project Status
+Day 1
+The project topic was selected. The problem statement and objectives were defined, and the overall project plan was prepared.
+Day 2
+Information about common symptoms and medicines was collected. A CSV dataset was created to store symptom and medicine details.
+Day 3
+The user interface was designed using HTML. Input fields and buttons were created for user interaction.
+Day 4
+The webpage was styled using CSS. The layout and visual appearance were improved for better usability.
+Day 5
+JavaScript logic was implemented. The CSV dataset was read and user symptoms were matched with the appropriate medicines.
+Day 6
+All components including HTML, CSS, JavaScript, and the CSV dataset were integrated. The application was tested with different inputs.
+Day 7
+The project was reviewed and finalized. Documentation was completed and the project was prepared for submission.
