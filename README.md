@@ -20,7 +20,7 @@ JavaScript reads the CSV dataset
 The system matches the user symptom with dataset values
 The corresponding medicine is identified
 The recommended medicine is displayed on the screen
-Project Status
+6.Project Status
 Day 1
 The project topic was selected. The problem statement and objectives were defined, and the overall project plan was prepared.
 Day 2
